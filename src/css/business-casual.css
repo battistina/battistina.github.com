@@ -178,6 +178,9 @@ footer p {
         display: table;
         float: none;
         margin: 0 auto;
+        font-family: cursive;
+        font-style: italic;
+        font-size: 1.55em;
         table-layout: fixed;
         font-size: 1.25em;
     }
